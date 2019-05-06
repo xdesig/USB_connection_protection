@@ -10,8 +10,11 @@ Buy PCB in PCBWAY [PCBWAY_LINK]
 Components: Electronics Lcsc
 
 USB Female [USB_F]
+
 USB Male [USB_M]
+
 PTC Resettable fuse SMD1206B050TF [PTC]
+
 TVS Littelfuse SP3003-02JTG [TVS]
 
 ![Top view][PHT]
