@@ -5,17 +5,17 @@ Rugged diodes (TVS Diode Arrays (SPA® Diodes) littelfuse) can safely absorb repe
 
 Protects both the computer and the peripheral. I designed this small circuit when an improper mount of a driver in a RAMPS, burned the USB of the Laptop :-(
 
-Buy PCB in PCBWAY [PCBWAY_LINK]
+Buy PCB in [PCBWAY]
 
 Components: Electronics Lcsc
 
-USB Female [USB_F]
+[USB Female]
 
-USB Male [USB_M]
+[USB Male]
 
-PTC Resettable fuse SMD1206B050TF [PTC]
+PTC Resettable fuse [SMD1206B050TF]
 
-TVS Littelfuse SP3003-02JTG [TVS]
+TVS Littelfuse [SP3003-02JTG]
 
 ![Top view][PHT]
 ![Render][RENDER]
@@ -34,9 +34,9 @@ TVS Littelfuse SP3003-02JTG [TVS]
 [PHT]: USB_Protect_A_34.png
 [RENDER]: USB_Protect_A_Bot.png
 [Real]: USB_Protect_A_PBOT.png
-[PCBWAY_LINK]: https://www.pcbway.com/project/shareproject/USB_connection_protection.html
-[USB_F]: https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-LCSC-USB-A-F900-14-1-Not-high-temperature_C2344.html
-[USB_M]: https://lcsc.com/product-detail/USB-Connectors_Atype-USBMale-head-USB-05_C112454.html
-[PTC]: https://lcsc.com/product-detail/Others_Brightking-Elec-TAIWAN-SMD1206B025TF_C269112.html
-[TVS]: https://lcsc.com/product-detail/TVS_Littelfuse_SP3003-02JTG_SP3003-02JTG_C151302.html
+[PCBWAY]: https://www.pcbway.com/project/shareproject/USB_connection_protection.html
+[USB Female]: https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-LCSC-USB-A-F900-14-1-Not-high-temperature_C2344.html
+[USB Male]: https://lcsc.com/product-detail/USB-Connectors_Atype-USBMale-head-USB-05_C112454.html
+[SMD1206B050TF]: https://lcsc.com/product-detail/Others_Brightking-Elec-TAIWAN-SMD1206B025TF_C269112.html
+[SP3003-02JTG]: https://lcsc.com/product-detail/TVS_Littelfuse_SP3003-02JTG_SP3003-02JTG_C151302.html
 
