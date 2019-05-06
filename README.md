@@ -13,5 +13,5 @@ Rugged diodes (TVS Diode Arrays (SPA® Diodes) littelfuse) can safely absorb repe
 
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[PHT]: USB_Protect_A_PBOT.PNG
-[RENDER]: USB_Protect_A_SBOT.PNG
+[PHT]: USB_Protect_A_PBOT.png
+[RENDER]: USB_Protect_A_SBOT.png
