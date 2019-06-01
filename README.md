@@ -17,7 +17,6 @@ PTC Resettable fuse [SMD1206B050TF]
 
 TVS Littelfuse [SP3003-02JTG]
 
-![Top view][PHT]
 ![Render][RENDER]
 ![Real][Real]
 
@@ -31,9 +30,9 @@ TVS Littelfuse [SP3003-02JTG]
 
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[PHT]: USB_Protect_A_34.png
-[RENDER]: preta.jpg
-[Real]: USB_Protect_A_PBOT.png
+[PHT]:
+[RENDER]: USB_Protect_A_34.png
+[Real]: preta.jpg
 [PCBWAY]: https://www.pcbway.com/project/shareproject/USB_connection_protection.html
 [USB Female]: https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-LCSC-USB-A-F900-14-1-Not-high-temperature_C2344.html
 [USB Male]: https://lcsc.com/product-detail/USB-Connectors_Atype-USBMale-head-USB-05_C112454.html
