@@ -30,7 +30,6 @@ TVS Littelfuse [SP3003-02JTG]
 
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[PHT]:
 [RENDER]: USB_Protect_A_34.png
 [Real]: preta.jpg
 [PCBWAY]: https://www.pcbway.com/project/shareproject/USB_connection_protection.html
