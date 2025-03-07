@@ -31,7 +31,7 @@ TVS Littelfuse [SP3003-02JTG]
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
 [RENDER]: USB_Protect_A_34.png
-[Real]: preta.jpg
+[Real]: USB_Protect_A_Preta.jpg
 [PCBWAY]: https://www.pcbway.com/project/shareproject/USB_connection_protection.html
 [USB Female]: https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-LCSC-USB-A-F900-14-1-Not-high-temperature_C2344.html
 [USB Male]: https://lcsc.com/product-detail/USB-Connectors_Atype-USBMale-head-USB-05_C112454.html
